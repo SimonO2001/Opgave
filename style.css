@@ -1,0 +1,38 @@
+body{
+   
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+ 
+.box {
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px;
+
+
+}
+
+.placeholder {
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    
+}
+.PDF { 
+    margin: 50px;
+ }
+.Om-mig
+{
+    padding-left: 50px;
+    margin: 50px;
+    
+    
+    
+
+}
+.portfolio
+{
+    padding-top: -50px;
+    margin-top: -50px;
+}
